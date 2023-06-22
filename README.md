@@ -7,3 +7,7 @@ This is what I have at the start.
 ![Room](images/Composition.jpg)
 
 References to the templates to come. 
+
+6/21/23
+This is the arduino and board that I have at the start. 
+![Arduino](images/Arduino.jpg)
