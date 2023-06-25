@@ -14,3 +14,6 @@ This is the arduino and board that I have at the start.
 
 6/25/23
 I made the LED light blink using Arduino. 
+I also made the ultrasound sensor work. It is able to determine the distance from my hand to itself. 
+![Ultrasonic](images/Ultrasonic.jpg)
+
