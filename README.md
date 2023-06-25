@@ -11,3 +11,6 @@ References to the templates to come.
 6/21/23
 This is the arduino and board that I have at the start. 
 ![Arduino](images/Arduino.jpg)
+
+6/25/23
+I made the LED light blink using Arduino. 
